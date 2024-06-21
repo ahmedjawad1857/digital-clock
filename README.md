@@ -2,9 +2,11 @@
 
 A stylish and functional digital clock developed using HTML, CSS, and JavaScript. This project displays the current time with real-time updates and includes interactive hover effects for enhanced user engagement.
 
-## Here's the demo video...
+## Demo
 
-[Watch the demo video](/digital-clock.mp4)
+Watch the demo video to see the Digital Clock in action:
+
+- [Watch the demo video](/digital-clock.mp4)
 
 ## Features
 
@@ -23,7 +25,7 @@ A stylish and functional digital clock developed using HTML, CSS, and JavaScript
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
@@ -34,14 +36,14 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ahmedjawad1857/digital-clock.git
+    git clone https://github.com/ahmedjawad1857/digital-clock.git
 ```
 
 2. Open `index.html` in your preferred browser.
 
-### Usage
+## Usage
 
-- Simply open `index.html` to view the digital clock on your browser.
+- Simply open `index.html` to view the digital clock in your browser.
 - Customize the styles in `style.css` to match your website’s theme.
 
 ## Contributing
@@ -60,9 +62,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Muhammad Ahmad Jawad
+Muhammad Ahmad
 
 - GitHub: [ahmedjawad1857](https://github.com/ahmedjawad1857)
-- LinkedIn: [Ahmad Jawad](https://www.linkedin.com/in/ahmad-jawad-a780512bb)
-
-Project Link: [https://github.com/ahmedjawad1857/digital-clock](https://github.com/ahmedjawad1857/digital-clock)
+- LinkedIn: [Muhammad Ahmad](https://www.linkedin.com/in/ahmad-jawad-a780512bb)
+- Email: <a href="mailto:ahmedjawad1857@gmail.com">Email Me</a>
+- Project Link: [https://github.com/ahmedjawad1857/digital-clock](https://github.com/ahmedjawad1857/digital-clock)
